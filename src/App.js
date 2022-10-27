@@ -44,7 +44,7 @@ function App() {
                   })
                   .crop(windowRect)
                   .toPNG();
-                    /*{
+                    /*{ //adding comments for testing purposes
                     x: window.screenLeft,
                     y: window.screenTop,
                     width: window.innerWidth,
